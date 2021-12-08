@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://junhaidiao.github.io/heyha/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "papermode"
